@@ -1,3 +1,4 @@
 
 *.xml
 .idea/PiesOfTye.iml
+.DS_Store
